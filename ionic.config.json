@@ -1,0 +1,7 @@
+{
+  "name": "n26-bank-app-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
