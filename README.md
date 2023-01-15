@@ -5,6 +5,7 @@ This project is a clone of the bank app N26.
 ## Table of contents
 
 - [Features](#features)
+- [Progress](#progress)
 - [Commands](#commands)
 - [Linting](#linting)
 
@@ -14,6 +15,10 @@ This project is a clone of the bank app N26.
 - **Git hooks**: with [husky](https://github.com/typicode/husky) and [lint-staged](https://github.com/okonet/lint-staged)
 - **Linting**: with [ESLint](https://eslint.org) and [Prettier](https://prettier.io)
 - **Editor config**: consistent editor configuration using [EditorConfig](https://editorconfig.org)
+
+## Progress
+
+Working on Home page
 
 ## Commands
 
